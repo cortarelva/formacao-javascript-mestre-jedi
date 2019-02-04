@@ -6,7 +6,7 @@ function eventoOnload(){
     console.log("Evento onLoad disparado");
 }
 
-function eventoOnclick() {
+const eventoOnclick = () => {
     console.log("Missão Estelar Js realizada com sucesso!!!");
 }
 
